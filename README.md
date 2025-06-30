@@ -13,7 +13,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img width="40px" src ="https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png"><img width="40px" src ="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png"><img src ="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img src ="https://img.icons8.com/?size=48&id=f8puwbhs0kUR&format=png">
+
+<img width="40px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgbzUuAfmCXSjLUkPNBR1YkDiONbBsCezrw&s"><img width="40px" src ="https://miro.medium.com/v2/resize:fit:376/1*fIunQUuFSk4nQgJG4wUO-g.png"><img width="40px" src ="https://img.icons8.com/?size=160&id=TLI9oiMzpREF&format=png"><img width="40px" src ="https://img.icons8.com/?size=96&id=39292&format=png"><img width="40px" src ="https://img.icons8.com/?size=48&id=Ei4ZhVQvIMHE&format=png"><img width="40px" src ="https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png">
 
 **Infrastructure**
 
