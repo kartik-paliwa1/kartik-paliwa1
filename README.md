@@ -1,7 +1,3 @@
-## Hi there 👋
-![](https://visitcount.itsvg.in/api?id=kartikp&label=Profile%20Views&color=1&icon=5&pretty=false)
-
-
 <h1>Hi There, I'm Kartik Paliwal <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Leveraging my engineering background and fascination with cloud technologies, I'm eager to contribute to building scalable software solutions.
