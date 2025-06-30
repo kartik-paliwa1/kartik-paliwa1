@@ -38,17 +38,17 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img width="45px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6RTuQNy4gypfi0EJNTawAgwIz42woXktIg&s"><img width="60px" src ="https://img.icons8.com/?size=96&id=20906&format=png"><img width="60px" src ="https://img.icons8.com/?size=128&id=3tC9EQumUAuq&format=png"><img width="60px" src ="https://pngate.com/wp-content/uploads/2025/06/sonarqube-main-horizontal-brand-logo-black-blue-text-waves-modern-design-1.png"><img width="60px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFm0KsUWf54kCsFXudSCAMncSSMsSZ5iu9ug&s"><img width="60px" src ="https://img.icons8.com/?size=160&id=tmEqIUErLJVM&format=png">
 
-
+<!--
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
 |--|--|
 
-<br>
+<br> -->
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/kartik-paliwal/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<
 |--|--|
 
 ### Here is a random meme for you, to make your day better
