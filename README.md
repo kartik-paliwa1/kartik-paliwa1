@@ -23,7 +23,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Infrastructure**
 
 
-<img width="50px" src ="https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png"><img src ="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img src ="https://img.icons8.com/?size=48&id=f8puwbhs0kUR&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=OrZMxhqm7nsr&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=kEkT1u7zTDk5&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=iGCCE2iEmh2u&format=png">
+<img width="50px" src ="https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png"><img src ="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img src ="https://img.icons8.com/?size=48&id=f8puwbhs0kUR&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=OrZMxhqm7nsr&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=kEkT1u7zTDk5&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png">
 
 
 
@@ -36,7 +36,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Tools**
 
 
-<img width="45px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6RTuQNy4gypfi0EJNTawAgwIz42woXktIg&s"><img width="60px" src ="https://img.icons8.com/?size=96&id=20906&format=png"><img width="60px" src ="https://img.icons8.com/?size=128&id=3tC9EQumUAuq&format=png"><img width="60px" src ="https://pngate.com/wp-content/uploads/2025/06/sonarqube-main-horizontal-brand-logo-black-blue-text-waves-modern-design-1.png"><img width="60px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFm0KsUWf54kCsFXudSCAMncSSMsSZ5iu9ug&s"><img width="60px" src ="https://img.icons8.com/?size=160&id=tmEqIUErLJVM&format=png">
+<img width="45px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6RTuQNy4gypfi0EJNTawAgwIz42woXktIg&s"><img width="60px" src ="https://img.icons8.com/?size=96&id=20906&format=png"><img width="60px" src ="https://img.icons8.com/?size=128&id=3tC9EQumUAuq&format=png"><img width="60px" src ="https://pngate.com/wp-content/uploads/2025/06/sonarqube-main-horizontal-brand-logo-black-blue-text-waves-modern-design-1.png"><img width="60px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFm0KsUWf54kCsFXudSCAMncSSMsSZ5iu9ug&s"><img width="60px" src ="https://img.icons8.com/?size=160&id=tmEqIUErLJVM&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=iGCCE2iEmh2u&format=png">
 
 <!--
 ## Some of my stats :bar_chart:
@@ -48,10 +48,5 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/kartik-paliwal/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<
-|--|--|
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="https://www.linkedin.com/in/kartik-paliwal/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|
+|--|
