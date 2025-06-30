@@ -9,24 +9,24 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img title="Go" alt="Go" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"> <img title="C" alt="C" width="40px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"><img src ="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png"><img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBwhXdDV2vkELpDc5FWCDY97Dv2Zhjkn9zg&s">
+<img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img title="Go" alt="Go" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"> <img title="C" alt="C" width="50px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"><img src ="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png"><img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBwhXdDV2vkELpDc5FWCDY97Dv2Zhjkn9zg&s">
 
 **Libraries and Frameworks**
 
 
-<img width="40px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgbzUuAfmCXSjLUkPNBR1YkDiONbBsCezrw&s"><img width="40px" src ="https://miro.medium.com/v2/resize:fit:376/1*fIunQUuFSk4nQgJG4wUO-g.png"><img width="40px" src ="https://img.icons8.com/?size=160&id=TLI9oiMzpREF&format=png"><img width="40px" src ="https://img.icons8.com/?size=96&id=39292&format=png"><img width="40px" src ="https://img.icons8.com/?size=48&id=Ei4ZhVQvIMHE&format=png"><img width="40px" src ="https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png">
+<img width="50px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgbzUuAfmCXSjLUkPNBR1YkDiONbBsCezrw&s"><img width="50px" src ="https://miro.medium.com/v2/resize:fit:376/1*fIunQUuFSk4nQgJG4wUO-g.png"><img width="50px" src ="https://img.icons8.com/?size=160&id=TLI9oiMzpREF&format=png"><img width="50px" src ="https://img.icons8.com/?size=96&id=39292&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=Ei4ZhVQvIMHE&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png">
 
 **Infrastructure**
 
-<img width="40px" src ="https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png"><img width="40px" src ="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png"><img src ="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img src ="https://img.icons8.com/?size=48&id=f8puwbhs0kUR&format=png">
+<img width="50px" src ="https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png"><img src ="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img src ="https://img.icons8.com/?size=48&id=f8puwbhs0kUR&format=png">
 
 **Databases**
 
-<img width="40px" src ="https://img.icons8.com/?size=160&id=JRnxU7ZWP4mi&format=png">
+<img width="50px" src ="https://img.icons8.com/?size=160&id=JRnxU7ZWP4mi&format=png">
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+<img title="Ubuntu" alt="Ubuntu" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="50px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="50px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="" alt="Jupyter" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
 <br>
 
