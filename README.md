@@ -46,6 +46,13 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br> -->
 
+## Blogs:
+
+<a href="https://hashnode.com/@kartikp"><img src="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP9_CAtTGkELoqvf3N7dc495NzdI2wVsBAmA&s" width="40"></a>|<a href="https://dev.to/kartik_p"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk6GbA36dFwldrrEJzdQafdQniP5R7w-vPAA&s" width="40"></a>
+|--|--|
+
+
+
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/kartik-paliwal/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|
