@@ -48,7 +48,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Blogs:
 
-<a href="https://hashnode.com/@kartikp"><img src="https://static.wixstatic.com/media/b917b3_d0635d51ef374007ba620a19383d6765~mv2.webp?w=1920&q=50" width="80"></a>|<a href="https://dev.to/kartik_p"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk6GbA36dFwldrrEJzdQafdQniP5R7w-vPAA&s" width="40"></a>
+<a href="https://hashnode.com/@kartikp"><img src="https://static.wixstatic.com/media/b917b3_d0635d51ef374007ba620a19383d6765~mv2.webp?w=1920&q=50" width="200"></a>|<a href="https://dev.to/kartik_p"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk6GbA36dFwldrrEJzdQafdQniP5R7w-vPAA&s" width="40"></a>
 |--|--|
 
 
