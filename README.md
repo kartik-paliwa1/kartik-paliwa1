@@ -23,7 +23,8 @@ These are some of the major technologies that I use or have worked on in the pas
 **Infrastructure**
 
 
-<img width="50px" src ="https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png"><img src ="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img src ="https://img.icons8.com/?size=48&id=f8puwbhs0kUR&format=png">
+<img width="50px" src ="https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png"><img src ="https://img.icons8.com/color/48/000000/amazon-web-services.png"><img src ="https://img.icons8.com/?size=48&id=f8puwbhs0kUR&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=OrZMxhqm7nsr&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=kEkT1u7zTDk5&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png"><img width="50px" src ="https://img.icons8.com/?size=48&id=iGCCE2iEmh2u&format=png">
+
 
 
 **Databases**
