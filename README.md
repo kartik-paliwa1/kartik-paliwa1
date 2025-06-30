@@ -13,12 +13,12 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img src = "https://cdn-icons-png.flaticon.com/32/919/919853.png">
-
-
-
-|--|--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+<img src ="https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png">
+<img src ="https://miro.medium.com/v2/resize:fit:376/1*fIunQUuFSk4nQgJG4wUO-g.png">
+<img src ="https://img.icons8.com/?size=48&id=39292&format=png">
+<img src ="https://img.icons8.com/?size=48&id=Ei4ZhVQvIMHE&format=png">
+<img src ="https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png">
+<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
 **Infrastructure**
 
