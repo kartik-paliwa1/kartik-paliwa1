@@ -35,9 +35,8 @@ These are some of the major technologies that I use or have worked on in the pas
 **Tools**
 
 
-<img title="Ubuntu" alt="Ubuntu" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="50px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="50px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="" alt="Jupyter" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
-<br>
+<img width="50px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6RTuQNy4gypfi0EJNTawAgwIz42woXktIg&s"><img width="50px" src ="https://img.icons8.com/?size=96&id=20906&format=png"><img width="50px" src ="https://img.icons8.com/?size=128&id=3tC9EQumUAuq&format=png"><img width="50px" src ="https://pngate.com/wp-content/uploads/2025/06/sonarqube-main-horizontal-brand-logo-black-blue-text-waves-modern-design-1.png"><img width="50px" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFm0KsUWf54kCsFXudSCAMncSSMsSZ5iu9ug&s"><img width="50px" src ="https://img.icons8.com/?size=160&id=tmEqIUErLJVM&format=png">
+
 
 ## Some of my stats :bar_chart:
 
