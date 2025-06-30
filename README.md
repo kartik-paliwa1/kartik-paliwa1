@@ -13,8 +13,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img src ="https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png">
-<img src ="https://miro.medium.com/v2/resize:fit:376/1*fIunQUuFSk4nQgJG4wUO-g.png">
+<img width="40px" src ="https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png">
+<img width="40px" src ="https://miro.medium.com/v2/resize:fit:376/1*fIunQUuFSk4nQgJG4wUO-g.png">
 <img src ="https://img.icons8.com/?size=48&id=39292&format=png">
 <img src ="https://img.icons8.com/?size=48&id=Ei4ZhVQvIMHE&format=png">
 <img src ="https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png">
